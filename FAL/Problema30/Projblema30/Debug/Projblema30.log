@@ -1,0 +1,9 @@
+﻿  Ejer1.cpp
+  Ejer2.cpp
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(35,2): error C2143: error de sintaxis: falta ')' delante de '}'
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(34,11): error C2660: 'resolver': la función no acepta 3 argumentos
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(23,6): message : vea la declaración de 'resolver'
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(35,2): error C2143: error de sintaxis: falta ';' delante de '}'
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(62,61): error C2660: 'resolver': la función no acepta 8 argumentos
+R:\FAL\Problema30\Projblema30\Ejer2.cpp(23,6): message : vea la declaración de 'resolver'
+  Generando código...

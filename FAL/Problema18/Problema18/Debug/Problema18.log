@@ -1,0 +1,3 @@
+﻿  Problema18.cpp
+R:\FAL\Problema18\Problema18\Problema18.cpp(29): warning C4717: 'resolver': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  Problema18.vcxproj -> R:\FAL\Problema18\Debug\Problema18.exe

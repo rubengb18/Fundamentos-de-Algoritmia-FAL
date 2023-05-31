@@ -1,0 +1,8 @@
+﻿  Problema3.cpp
+R:\FAL\Problema3\Problema3\Problema3.cpp(23,19): warning C4018: '<': no coinciden signed/unsigned
+R:\FAL\Problema3\Problema3\Problema3.cpp(48,15): warning C4244: 'argumento': conversión de '__int64' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+  Problema3.vcxproj -> R:\FAL\Problema3\Debug\Problema3.exe

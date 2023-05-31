@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ENE 2020", "ENE 2020\ENE 2020.vcxproj", "{FEDB055B-0B10-4443-B5F8-30F1202ABB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Debug|x64.ActiveCfg = Debug|x64
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Debug|x64.Build.0 = Debug|x64
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Debug|x86.Build.0 = Debug|Win32
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Release|x64.ActiveCfg = Release|x64
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Release|x64.Build.0 = Release|x64
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Release|x86.ActiveCfg = Release|Win32
+		{FEDB055B-0B10-4443-B5F8-30F1202ABB73}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBFD82A-B467-453E-91B7-04B5F67DC518}
+	EndGlobalSection
+EndGlobal

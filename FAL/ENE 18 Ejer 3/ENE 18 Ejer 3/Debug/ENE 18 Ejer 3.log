@@ -1,0 +1,5 @@
+﻿  Source.cpp
+R:\FAL\ENE 18 Ejer 3\ENE 18 Ejer 3\Source.cpp(29,25): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+R:\FAL\ENE 18 Ejer 3\ENE 18 Ejer 3\Source.cpp(54,34): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+R:\FAL\ENE 18 Ejer 3\ENE 18 Ejer 3\Source.cpp(13): warning C4715: 'contarCifras': no todas las rutas de acceso de control devuelven un valor
+  ENE 18 Ejer 3.vcxproj -> R:\FAL\ENE 18 Ejer 3\Debug\ENE 18 Ejer 3.exe

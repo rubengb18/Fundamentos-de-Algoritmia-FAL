@@ -1,0 +1,4 @@
+﻿  Problema2.cpp
+R:\FAL\Problema2\Problema2\Problema2.cpp(8,20): warning C4018: '<': no coinciden signed/unsigned
+R:\FAL\Problema2\Problema2\Problema2.cpp(18,20): warning C4018: '<': no coinciden signed/unsigned
+  Problema2.vcxproj -> R:\FAL\Problema2\Debug\Problema2.exe

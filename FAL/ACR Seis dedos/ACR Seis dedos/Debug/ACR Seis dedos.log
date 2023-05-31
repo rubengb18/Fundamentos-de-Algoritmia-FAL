@@ -1,0 +1,5 @@
+﻿  Source.cpp
+R:\FAL\ACR Seis dedos\ACR Seis dedos\Source.cpp(17,22): warning C4018: '>': no coinciden signed/unsigned
+R:\FAL\ACR Seis dedos\ACR Seis dedos\Source.cpp(24,10): warning C4101: 'fi': variable local sin referencia
+R:\FAL\ACR Seis dedos\ACR Seis dedos\Source.cpp(24,6): warning C4101: 'in': variable local sin referencia
+  ACR Seis dedos.vcxproj -> R:\FAL\ACR Seis dedos\Debug\ACR Seis dedos.exe

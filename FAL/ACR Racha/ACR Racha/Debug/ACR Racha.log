@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+R:\FAL\ACR Racha\ACR Racha\Source1.cpp(9,6): warning C4101: 'n': variable local sin referencia
+  ACR Racha.vcxproj -> R:\FAL\ACR Racha\Debug\ACR Racha.exe

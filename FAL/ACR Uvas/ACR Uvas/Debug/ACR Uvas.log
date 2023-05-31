@@ -1,0 +1,5 @@
+﻿  Source.cpp
+R:\FAL\ACR Uvas\ACR Uvas\Source.cpp(24,9): warning C4018: '<': no coinciden signed/unsigned
+R:\FAL\ACR Uvas\ACR Uvas\Source.cpp(25,21): warning C4018: '<': no coinciden signed/unsigned
+R:\FAL\ACR Uvas\ACR Uvas\Source.cpp(41,21): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  ACR Uvas.vcxproj -> R:\FAL\ACR Uvas\Debug\ACR Uvas.exe

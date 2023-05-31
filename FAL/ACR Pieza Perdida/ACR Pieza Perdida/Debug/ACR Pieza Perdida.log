@@ -1,0 +1,3 @@
+﻿  Source.cpp
+R:\FAL\ACR Pieza Perdida\ACR Pieza Perdida\Source.cpp(19): warning C4715: 'resolver': no todas las rutas de acceso de control devuelven un valor
+  ACR Pieza Perdida.vcxproj -> R:\FAL\ACR Pieza Perdida\Debug\ACR Pieza Perdida.exe
